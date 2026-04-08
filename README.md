@@ -33,7 +33,7 @@
 
 ```bash
 https://github.com/ruiixvolthacked/ppS.git
-cd MOW
+cd Mass-Otp-WhatsApp
 pkg install make
 make mow
 
