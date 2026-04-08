@@ -32,7 +32,7 @@
 ## 📥 Installation
 
 ```bash
-https://github.com/ruiixvolthacked/ppS.git
+https://github.com/ruiixvolthacked/Mass-Otp-WhatsApp.git
 cd Mass-Otp-WhatsApp
 pkg install make
 make mow
