@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge">
 </p>
 
